@@ -5,3 +5,4 @@ Rencana Project Faizal
 3. Website Portfolio
 4. Aplikasi chating
 5. Aplikasi e-commerce
+6. Aplikasi dengan JavaScript
