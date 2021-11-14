@@ -4,3 +4,4 @@ Rencana Project Faizal
 2. Aplikasi manegement barang yang responsive
 3. Website Portfolio
 4. Aplikasi chating
+5. Aplikasi e-commerce
