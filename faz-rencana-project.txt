@@ -1,0 +1,5 @@
+Rencana Project Faizal
+
+1. Aplikasi yang mengimplementasikan API
+2. Aplikasi manegement barang yang responsive
+3. Website Portfolio
