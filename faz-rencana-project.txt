@@ -1,0 +1,6 @@
+Rencana Project Faizal
+
+1. Aplikasi yang mengimplementasikan API untuk login
+2. Aplikasi manegement barang yang responsive
+3. Website Portfolio
+4. Aplikasi chating
